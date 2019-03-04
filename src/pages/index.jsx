@@ -1,6 +1,6 @@
 import React from "react"
 import Header from "../components/header"
-import "/home/cabox/workspace/tutorial-part-four/src/styles/global.css"
+import "/home/cabox/workspace/weather-app/src/styles/global.css"
 
 export default () => (
     <div id = "container">

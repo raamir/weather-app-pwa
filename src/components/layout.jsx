@@ -2,7 +2,7 @@ import React from "react"
 
 import { StaticQuery,  graphql } from "gatsby"
 
-import "/home/cabox/workspace/tutorial-part-four/src/styles/global.css"
+import "/home/cabox/workspace/weather-app/src/styles/global.css"
 
 
 export default ({ children }) => (
