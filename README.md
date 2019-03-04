@@ -38,12 +38,10 @@
     Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
     
  1.  **Install Manifest and Offline Support Plugins**
-```
-npm install --save gatsby-plugin-manifest
-```
-```
-npm install --save gatsby-plugin-offline
-```
+      ```
+      npm install --save gatsby-plugin-manifest
+      npm install --save gatsby-plugin-offline
+      ```
 And Update gatsby-config.js according to the gatsby tutorial step 8 @ `https://www.gatsbyjs.org/tutorial/part-eight/`
 ## 🧐 What's inside?
 
