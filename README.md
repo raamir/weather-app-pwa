@@ -8,7 +8,14 @@
   Gatsby Weather App PWA Support Documentation 
 </h1>
 
-
+<h3> Link From where app can be downloaded:
+  https://cold-territory.surge.sh/
+ </h3>
+ 
+ <p> <b> ***NOTE: Make sure to check Offline in Developer Tools for it to work*** <b> 
+    <img alt="Gatsby" src="https://developers.google.com/web/tools/chrome-devtools/images/panels/application.png" width="175" />
+ <p>
+    
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
