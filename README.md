@@ -12,9 +12,8 @@
   https://cold-territory.surge.sh/
  </h3>
  
- <p> <b> ***NOTE: Make sure to check Offline in Developer Tools for it to work*** <b> 
-    <img alt="Gatsby" src="https://developers.google.com/web/tools/chrome-devtools/images/panels/application.png" width="175" />
- <p>
+ <p> <b> ***NOTE: Make sure to check Offline in Developer Tools for it to work*** <b> <p>
+    <img alt="Gatsby" src="https://developers.google.com/web/tools/chrome-devtools/images/panels/application.png" width="300" />
     
 ## 🚀 Quick start
 
