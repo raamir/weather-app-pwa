@@ -13,7 +13,7 @@
  </h3>
  
  <p> <b> ***NOTE: Make sure to check Offline in Developer Tools for it to work*** <b> <p>
-    <img alt="Gatsby" src="https://developers.google.com/web/tools/chrome-devtools/images/panels/application.png" width="300" />
+    <img alt="Gatsby" src="https://developers.google.com/web/tools/chrome-devtools/images/panels/application.png" width="1000" />
     
 ## 🚀 Quick start
 
